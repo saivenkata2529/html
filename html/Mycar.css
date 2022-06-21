@@ -1,0 +1,41 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Mycar.css">
+</head>
+<body>
+body{
+
+background-image: url(MarutisuzukiArena.jpg); background-size: cover; background-color: rgba(0, 0, 0, 0.8);
+}
+
+h1{
+text-align: center; margin-top:0px; background-color:none; color: #000;
+font-size: 50px; float: center;
+<header>
+<h1>text-align: center; margin-top:0px; background-color:none; color: #000;
+font-size: 50px; float: center;
+border: 5px solid lightyellow;
+</h1>
+<nav>
+<li>HOME</li>
+<li> CORPORATE</li>
+<li> SALES</li>
+<li>SERVICE</li>
+<li>MORE FROM US</li>
+</nav>
+</header>
+<div class= "main">
+<div class="content">
+<h1>Maruthi Suzuki</h1>
+<h3> Brand New<span>Maruti car</span></h3>
+
+<button> BOOK SHOWROOM VISIT</button>
+<button> BOOK A SERVICE</button>
+</div>
+<div class="carimage">
+<img src="MarutiSuzukiArena.jpg"
+
+</div>
+</div>
+</body>
+</html>
